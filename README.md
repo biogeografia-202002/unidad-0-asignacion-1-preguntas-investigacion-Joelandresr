@@ -1,10 +1,10 @@
 # Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
-* ...
+* Cual es la distribucion del genero Passiflora en la Republica Dominicana?
 
-* ...
+* La distribucion del genero en el pais responde a un rango altitudal?
 
-* ...
+* Se corresponde la distribucion del genero con la litologia y los tipos de vegetacion presentes en el pais?
 
 # Base común
 
