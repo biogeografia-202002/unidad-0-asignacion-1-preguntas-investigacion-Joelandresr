@@ -2,8 +2,8 @@
 
 * Medición de asociación:
 
-    *¿Se detectan especies asociadas dentro de Malvaceae?
-    *¿Existe asociación entre variables ambientales/atributos? ¿Cuáles variables?
+    * ¿Se detectan especies asociadas dentro de Malvaceae?
+    * ¿Existe asociación entre variables ambientales/atributos? ¿Cuáles variables?
     
 * Ecología espacial:
 
